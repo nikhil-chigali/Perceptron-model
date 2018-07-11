@@ -1,5 +1,5 @@
 # Perceptron Model
-* This is the code for simple perceptrom model. *
+* This is the code for simple perceptron model. 
 
 The perceptron was invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory , a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output.
 
